@@ -1,0 +1,71 @@
+
+.background{
+    background-color: #f2f5f4;
+    height: 225px;
+    width: 50%;
+    margin-left: 20%;
+    
+}
+.background h4{
+    padding-left: 10px;
+    padding-top: 1px;
+    margin-top: -25px;
+}
+
+
+.kanan{
+    color: #979c9b;
+    float: right;
+    margin: 5px;
+}
+.background{
+    background-color: #f2f5f4;
+    height: 225px;
+    width: 50%;
+    margin-left: 20%;
+
+
+}
+
+.gambar{
+    padding-left: 20px;
+    height: 80px;
+}
+
+.gambar1{
+    padding-left: 8px;
+    height: 25px;
+    color: #76e8df;
+    margin-top: 7px;
+}
+
+.paket{
+    color: #5ce0d6;
+    padding-left: 40px;
+    margin-top: -28px;
+}
+
+.background p{
+    padding-left: 100px;
+    margin-top: -70px;
+    font-size: 13px;
+}
+
+.kanan2{
+    float: right;
+    margin: 5px;
+    font-size: 13px;
+}
+
+.kanan3{
+    float: right;
+    margin: 5px;
+    margin-top: -20px;
+    color: #979c9b;
+    padding-top: 7px;
+}
+.padd {
+    padding-top: 7px;
+    padding-left: 8px;
+    color: #979c9b
+}

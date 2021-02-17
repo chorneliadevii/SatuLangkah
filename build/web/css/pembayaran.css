@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.small-container{
+   max-width: 1080px;
+   margin: auto;
+   padding-left: 25px;
+   padding-right: 25px; 
+}
+
+.line1{
+border: 2px solid;
+}
+
+.line2{
+border: 2px dotted gray;
+}
+
+/*---- cart items ----*/
+.cart-page{
+    padding: 80px;
+    position: relative;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cart-info{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+th{
+    text-align: left;
+    padding: 5px;
+    font-weight: normal;
+}
+
+td{
+    padding: 10px 5px;
+}
+
+a{
+    color: #798A33;
+    font-weight: 12px;
+    text-decoration: none;
+}
+
+td img{
+    width: 80px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+td:last-child{
+    text-align: right;
+}
+
+th:last-child{
+    text-align: right;
+}
+
+th:first-child{
+    color: #798A33;
+}
+
+.btn{
+    background-color: #798A33;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn#upload{
+    background-color: #798A33;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+td input#rubah{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-color: white;    
+}
+
+td input#htotal{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-color: white;    
+}
+
+td input#harga{
+    width: 10px;   
+}

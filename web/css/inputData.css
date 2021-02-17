@@ -1,0 +1,41 @@
+.linkButton{
+    text-decoration: none;
+    background-color: #eeeeee;
+    color: black;
+    padding: 2px 18px 2px 18px;
+    border: 1px solid #c2c2c2;
+    border-radius: 2px;
+}
+
+.content{
+    position: static;
+    margin-left: 20%;
+    margin-right: 30%;
+    padding: 1px;
+    margin-top: ;
+}
+
+.content1{
+    margin-left: 20%;
+    padding: 1px;
+    color: #798A33;
+}
+
+.form-Desa{
+    background-color: rgb(243, 233, 233);
+    width: 62%;
+}
+
+.right{
+    margin-left: 500px;
+}
+
+.warna{
+    background-color: #798A33;
+    border: none;
+    color: white;
+    text-decoration: none;    
+    padding: 2px 18px 2px 18px;
+    font-size: 15px;
+}
+

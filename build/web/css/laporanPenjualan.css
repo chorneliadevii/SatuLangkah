@@ -1,0 +1,49 @@
+.laporan{
+    margin-top: -15%;
+}
+
+
+h1{
+    padding-left: 50px;
+}
+
+hr{
+    
+    height: 4px;
+    background: #798A33;
+}
+tr{
+    height: 40px;
+}
+.input1{
+    height: 25px;
+}
+.container{
+    padding:30px 50px 30px 50px;
+}
+.table1{
+    border-color: white;
+    width: 100%;
+}
+.table1 th{
+    background: #798A33;
+}
+
+.table1 td{
+    background: silver;
+}
+
+.btn{
+    background: #798A33;
+    color: white;
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.btn:hover{
+    background: black;
+}
+

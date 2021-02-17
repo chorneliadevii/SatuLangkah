@@ -1,0 +1,68 @@
+.destinasi{
+    padding-top: 15px;
+}
+
+.destinasi h1{
+    font-size: 50px;
+    padding-left: 10px;
+}
+.destinasi h3{
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.destinasi td:nth-child(2){
+    padding-left : 2px;
+}
+
+.destinasi td:last-child{
+     padding-left : 2px;
+}
+.shadow {
+    background-color: #E9EBEB;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+}
+table{
+    width: 100%;
+   
+}
+.warna{
+    background-color: #798A33;
+    border: none;
+    color: white;
+    text-decoration: none;    
+    padding: 6px 22px 6px 22px;
+    font-size: 15px;
+}
+
+.tombol{
+    margin-left: 0%;
+}
+
+.destinasi img{
+    width: 250px;
+    height: 250px;
+}
+
+.input1{
+    background: #798A33;
+    color: white;
+    border: none;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.input1:hover{
+    background: black;
+}
+
+.edit1{
+    margin-top: -20%;
+}
+
+

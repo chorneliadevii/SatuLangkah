@@ -1,0 +1,48 @@
+.tengah{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.tengah2{
+    padding-left: 65px;
+}
+
+h4{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.posisi1{
+   padding-left: 40%;
+   padding-top: 15%;
+}
+
+.card {
+    padding-left: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.container {
+    padding: 4px 4px 4px 4px;
+}
+
+.btn2{
+    background: #798A33;
+    color: white;
+    border: none;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn2:hover{
+    background: black;
+}
